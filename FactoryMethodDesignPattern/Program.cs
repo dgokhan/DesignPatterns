@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using FactoryMethodDesignPattern;
+﻿using FactoryMethodDesignPattern;
 using FactoryMethodDesignPattern.Enums;
 using FactoryMethodDesignPattern.Models.Base;
 
